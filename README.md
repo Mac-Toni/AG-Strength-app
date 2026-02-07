@@ -32,7 +32,7 @@
 
 ## 🤝 Parceria
 Este projeto foi desenvolvido através da colaboração estratégica entre o usuário **Aquarius** (concepção e testes) e **Gemini** (codificação e arquitetura).
-Publicado por **Mac-Toni** em 07 de fevereiro de 2026
+Publicado por **Mac-Toni** em 07 de fevereiro de 2026.
 
 ---
 *Foco, força e persistência.*
